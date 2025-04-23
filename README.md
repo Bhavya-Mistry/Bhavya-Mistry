@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>AI-powered tools for real-world problem solving — from basic to moderate level predictions<br><br>🌱 I’m currently learning  <br>Advanced machine learning concepts, deep learning architectures, NLP and Streamlit <br><br>👯 I’m looking to collaborate on  <br>Open-source AI/ML projects that involves brainpower and building stuff 🚀<br><br>🤝 I’m looking for help with  <br>Understanding large language models better and deploying ML models efficiently in production<br>
-
+🔭 I’m currently working on  <br>AI-powered tools for real-world problem solving — from basic to moderate level predictions<br><br>🌱 I’m currently learning  <br>Advanced machine learning concepts, deep learning architectures, NLP and Streamlit <br><br>👯 I’m looking to collaborate on  <br>Open-source AI/ML projects that involves brainpower and building stuff 🚀<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavya_mistry)
