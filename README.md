@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>AI-powered tools for real-world problem solving — from basic to moderate level predictions<br><br>🌱 I’m currently learning  <br>Advanced machine learning concepts, deep learning architectures, NLP and Streamlit <br><br>👯 I’m looking to collaborate on  <br>Open-source AI/ML projects that involves brainpower and building stuff 🚀<br><br>
+🔭 I’m currently working on  <br>AI-powered tools for real-world problem solving — from basic to moderate level predictions<br><br>🌱 I’m currently learning  <br>Advanced machine learning concepts, deep learning architectures, NLP and Streamlit <br>
 
 ## 🌐 Let's Connect :
 
