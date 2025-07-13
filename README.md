@@ -1,3 +1,5 @@
+
+<img src="https://komarev.com/ghpvc/?username=Bhavya-Mistry&label=Profile%20views&color=0e75b6&style=flat" alt="Bhavya-Mistry" />
 # 💫 About Me:
 🔭 I’m currently working on  <br>AI-powered tools for real-world problem solving — from basic to moderate level predictions<br><br>🌱 I’m currently learning  <br>Advanced machine learning concepts, deep learning architectures, Keras and fastAPI <br>
 
@@ -39,7 +41,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
-<img src="https://komarev.com/ghpvc/?username=Bhavya-Mistry&label=Profile%20views&color=0e75b6&style=flat" alt="Bhavya-Mistry" />
 
 
 
