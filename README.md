@@ -38,7 +38,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Bhavya-Mistry.Bhavya-Mistry)
+
+![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Bhavya-Mistry&style=for-the-badge&color=0ab9ff)
+
 
 
 
