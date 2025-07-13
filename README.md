@@ -38,4 +38,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Bhavya-Mistry.your_username)
+
+
 
