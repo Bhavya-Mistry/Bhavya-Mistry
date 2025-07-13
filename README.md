@@ -39,7 +39,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
-![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Bhavya-Mistry&style=for-the-badge&color=0ab9ff)
+<img src="https://komarev.com/ghpvc/?username=Bhavya-Mistry&label=Profile%20views&color=0e75b6&style=flat" alt="Bhavya-Mistry" />
 
 
 
