@@ -25,7 +25,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-Mistry&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div> <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-Mistry&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div> <div align="center"></div>
 
 
 
@@ -33,9 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Bhavya-Mistry&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhavya-Mistry&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya-Mistry&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-nu-brone.vercel.app/?username=Bhavya-Mistry&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
