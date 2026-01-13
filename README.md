@@ -25,8 +25,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-Mistry&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div> <div align="center"></div>
-
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-Mistry&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div>
 
 
 # 📊 GitHub Stats:
