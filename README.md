@@ -26,6 +26,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhavya-Mistry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Bhavya-Mistry&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya-Mistry&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-Mistry&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </div> <div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> </div>
 
 
 
